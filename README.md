@@ -13,7 +13,7 @@
 
 # <p align="center"> كود تنصيب السورس ⌯︙
 
- # <p align="center" style="color:#cb3349" > ``git clone https://github.com/z73v ;cd LOST;chmod +x install;./install install``
+ # <p align="center" style="color:#cb3349" > ``git clone https://github.com/z73v/LOSTT.git;chmod +x install;./install install``
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس ⌯︙
 
